@@ -1,3 +1,3 @@
 # BowlingSim
 
-## Let's go Bowling
+## Let's go bowling!
