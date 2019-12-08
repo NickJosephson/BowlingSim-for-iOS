@@ -196,13 +196,16 @@
 				TargetAttributes = {
 					E1EB1D602079DE5500599F6F = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1120;
 					};
 					E1EB1D762079DE5500599F6F = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1120;
 						TestTargetID = E1EB1D602079DE5500599F6F;
 					};
 					E1EB1D812079DE5500599F6F = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1120;
 						TestTargetID = E1EB1D602079DE5500599F6F;
 					};
 				};
@@ -441,9 +444,9 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.nicholasjosephson.BowlingSim-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = com.nicholasjosephson.BowlingSim;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -459,9 +462,9 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.nicholasjosephson.BowlingSim-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = com.nicholasjosephson.BowlingSim;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -481,7 +484,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.nicholasjosephson.BowlingSimTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BowlingSim.app/BowlingSim";
 			};
@@ -502,7 +505,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.nicholasjosephson.BowlingSimTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BowlingSim.app/BowlingSim";
 			};
@@ -522,7 +525,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.nicholasjosephson.BowlingSimUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = BowlingSim;
 			};
@@ -542,7 +545,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.nicholasjosephson.BowlingSimUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = BowlingSim;
 			};
